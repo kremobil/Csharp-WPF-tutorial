@@ -7,11 +7,25 @@
         mc:Ignorable="d"
         Title="C# WPF tutorial" Height="350" Width="525">
     <StackPanel>
-        <TextBlock>
+        <TextBlock x:Name="TextBlockOne">
             Hello <Bold>World!</Bold> and hello <Italic>you</Italic>
             <LineBreak/>
             Go to <Hyperlink RequestNavigate="Hyperlink_OnRequestNavigate" NavigateUri="https://google.com">Google.com</Hyperlink>
         </TextBlock>
+        <TextBlock TextWrapping="Wrap" Foreground="IndianRed">
+            <Span FontWeight="Bold" Foreground="Red ">Lorem ipsum</Span>
+            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus rutrum tellus pellentesque eu tincidunt tortor. Vehicula ipsum a arcu cursus vitae.
+        </TextBlock>
+        <Label Margin="16 16 16 0"
+               BorderThickness="1"
+               BorderBrush="Black">
+            <StackPanel Orientation="Horizontal">
+                <Image Height="32"
+                       Source="https://kakadu.pl/blog/wp-content/uploads/2023/01/760x535px_1-1.jpg"/>
+                <AccessText Margin="24 0 0 0" Text="Insert dog name" FontSize="24"></AccessText>
+            </StackPanel>
+        </Label>
+        <TextBox FontSize="32" Margin="16 8 16 16" x:Name="DogName"></TextBox>
         <Button x:Name="myButton" Content="Hello world"></Button>
     </StackPanel>
 </Window>
