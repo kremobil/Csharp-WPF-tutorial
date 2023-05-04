@@ -1,0 +1,16 @@
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\bin\Debug\WpfApplications_tutorial.exe.config
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\bin\Debug\WpfApplications_tutorial.exe
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\bin\Debug\WpfApplications_tutorial.pdb
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications tutorial.csproj.AssemblyReference.cache
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\MainWindow.g.cs
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\App.g.cs
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications_tutorial_MarkupCompile.cache
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications_tutorial_MarkupCompile.lref
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\MainWindow.baml
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications_tutorial.g.resources
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications_tutorial.Properties.Resources.resources
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications tutorial.csproj.GenerateResource.cache
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications tutorial.csproj.CoreCompileInputs.cache
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications_tutorial.exe
+C:\Users\kremo\RiderProjects\WpfApplications tutorial\WpfApplications tutorial\obj\Debug\WpfApplications_tutorial.pdb
